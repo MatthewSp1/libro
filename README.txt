@@ -1,4 +1,4 @@
-URL to running website: https://libro.works
+
 
 |---------------------|----------------------------------------------------------|---------------------------------------|
 | Team Member         | File Names                                               | Contributions                         |
