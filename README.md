@@ -1,4 +1,20 @@
-# Instructions
+# Libro
+## Simplify scheduling for professors and students
+Create, manage, and book appointments effortlessly.
+
+<p align="center">
+  <img src="./Landing.png" alt="Landing" width="320"/>
+  <img src="./EmptyDash.png" alt="Dashboard (empty)" width="320"/>
+  <img src="./Dashboard.png" alt="Dashboard" width="320"/>
+  <img src="./CreateBook.png" alt="Create a booking" width="320"/>
+  <img src="./Link.png" alt="Create a poll (success)" width="320"/>
+  <img src="./Polls.png" alt="View polls" width="320"/>
+  <img src="./Book.png" alt="Book an appointment" width="320"/>
+  <img src="./AnswerPoll.png" alt="Answer a poll" width="320"/>
+</p>
+
+
+# Usage instructions
 
 Here are the instructions for running the application locally. Before running it, you should clone this repository, and ensure you have Node.js installed:
 
@@ -39,8 +55,13 @@ npm install
   npm run dev
   ```
 
+
 - For running the production server, run:
 
   ```bash
   npm start
   ```
+
+## Note
+
+This was a team effort. See README.txt for full credits.
