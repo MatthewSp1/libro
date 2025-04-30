@@ -1,13 +1,17 @@
-# Live Website URL
-
-https://libro.works
-
 # Instructions
 
 Here are the instructions for running the application locally. Before running it, you should clone this repository, and ensure you have Node.js installed:
 
 ```bash
 node -v
+```
+
+## Needed environment variables
+```
+JWT_SECRET=<your secret>
+GMAIL_USER=<your gmail email>
+GMAIL_PASSWORD=<your gmail password>
+MONGO_URI=<your mongo uri>
 ```
 
 ## Running the client
